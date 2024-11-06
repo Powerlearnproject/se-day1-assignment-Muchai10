@@ -77,6 +77,8 @@ Why the improved prompt is more effective:
 The improved prompt is more effective because it is:
 
 Clear: It specifies the topic of the blog post (fitness) and the target audience (individuals of all fitness levels).
+
 Specific: It outlines the specific purpose of the blog post (providing practical tips for improving cardiovascular health through regular exercise).
+
 Concise: It is precise and to the point, avoiding unnecessary details.
 
